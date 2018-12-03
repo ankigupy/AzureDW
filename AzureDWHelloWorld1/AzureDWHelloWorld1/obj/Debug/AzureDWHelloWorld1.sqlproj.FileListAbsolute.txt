@@ -1,0 +1,9 @@
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\bin\Debug\AzureDWHelloWorld1.dacpac
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\bin\Debug\AzureDWHelloWorld1.dll
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\bin\Debug\AzureDWHelloWorld1.pdb
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\Model.xml
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\refactor.xml
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\postdeploy.sql
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\predeploy.sql
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\AzureDWHelloWorld1.dll
+C:\Users\ankigupt\Source\Repos\AzureDW2\AzureDWHelloWorld1\AzureDWHelloWorld1\obj\Debug\AzureDWHelloWorld1.pdb
