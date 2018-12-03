@@ -1,0 +1,16 @@
+12/3/2018 5:45:30 PM	This log contains information about the import schema operation into project 'AzureDWHelloWorld1' on computer 'ANKIGUPT-LAPTOP' by user 'ankigupt'.
+12/3/2018 5:45:30 PM	Import of database schema has started.
+12/3/2018 5:45:44 PM	Gathering database credentials
+12/3/2018 5:45:44 PM	Gathering database options
+12/3/2018 5:45:44 PM	Gathering users
+12/3/2018 5:45:44 PM	Gathering schemas
+12/3/2018 5:45:44 PM	Gathering procedures
+12/3/2018 5:45:44 PM	Gathering tables
+12/3/2018 5:45:44 PM	Gathering default constraints
+12/3/2018 5:45:45 PM	Gathering views
+12/3/2018 5:45:45 PM	Gathering indexes
+12/3/2018 5:45:45 PM	Gathering column store indexes
+12/3/2018 5:45:45 PM	Gathering external file formats
+12/3/2018 5:45:49 PM	Finished importing database.
+12/3/2018 5:45:49 PM	A summary of the import was saved to the following location: D:\Ankit Gupta\Microsoft\Projects\T-Mobile\AzureDWHelloWorld1\AzureDWHelloWorld1\Import Schema Logs\AzureDWHelloWorld1_20181203121530.log
+12/3/2018 5:45:49 PM	Click Finish to continue...
